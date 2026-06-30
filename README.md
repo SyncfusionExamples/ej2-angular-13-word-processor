@@ -1,3 +1,7 @@
+# Build a Word Document Editor in Angular 13 Using the DOCX Editor (Document Editor)
+
+This repository demonstrates how to build a Word document editor using the Syncfusion<sup style="font-size:70%">&reg;</sup> [Angular DOCX Editor](https://www.syncfusion.com/docx-editor-sdk/angular-docx-editor?utm_source=github&utm_medium=listing&utm_campaign=github-github-documenteditor-examples) (Document Editor) in an Angular 13 application.
+
 # GridSample
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.1.
@@ -25,3 +29,11 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+# Resources
+
+- **Product page:**   [Syncfusion® Angular DOCX Editor](https://www.syncfusion.com/docx-editor-sdk/angular-docx-editor?utm_source=github&utm_medium=listing&utm_campaign=github-github-documenteditor-examples) 
+
+- **Documentation:**   [Syncfusion® Angular DOCX Editor - Documentation](https://help.syncfusion.com/document-processing/word/word-processor/angular/overview?utm_source=github&utm_medium=listing&utm_campaign=github-github-documenteditor-examples) 
+
+- **Online demo:**   [Syncfusion® Angular DOCX Editor - Online demo](https://document.syncfusion.com/demos/docx-editor/angular/#/tailwind3/document-editor/default?utm_source=github&utm_medium=listing&utm_campaign=github-github-documenteditor-examples) 
